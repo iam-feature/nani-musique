@@ -1,3 +1,4 @@
+![Image](hero-technology-hub.jpeg)
 ## Welcome to SETT Charter Digital Assets
 
 SETT Charter digital assets are made accessible through GitHub.
