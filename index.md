@@ -21,7 +21,18 @@ SETT Charter (the organization) architect, engineer and maintain
 
 Growing data analytics, artificial intelligence, logic engineering and machine learning methodologies have improved decision-making resulting in for the charter new growth opportunity, scaled value propositions and dynamic expansion.
 
+### Mastering
+
+Music Copyright, Publishing and Supervision
+* Provisioning guidance to clients, students, and prospects protecting their creative works
+* Business mechanisms that can affect the use of their songs and those of their clients
+* Serve as a creative liaison between the music industry and the visual-media industries, including film, 
+television, video games, and advertising.
+
 ### Support or Contact
 
 Having trouble with Pages? Check out our [documentation](https://) or [contact support](https://) and we’ll help you sort it out.
-"
+
+#### Legal Notice
+
+> SETT Charter (SETTCHARTER, settcharter). Copyright (C) 2022 SETT Charter. All Absolute Equity, Title, Rights, Interest, Reserved inherently, bound, observed and protected by patent, trademark, service mark law.
