@@ -37,4 +37,4 @@ Having trouble with Pages? Check out our [documentation](https://) or [contact s
 
 #### Legal Notice
 
-> SETT Charter. Copyright (C) 2022 SETT Charter, a plan administration. SETTCHARTER, settcharter are various labels for SETT Charter All Absolute Equity, Title, Rights, Interest, Reserved inherently, bound, observed and protected by patent, trademark, service mark law.
+> SETT Charter. Copyright (C) 2022 SETT Charter, a plan administration. SETTCHARTER, settcharter are various labels of SETT Charter All Absolute Equity, Title, Rights, Interest, Reserved inherently, bound, observed and protected by patent, trademark, service mark law.
