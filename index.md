@@ -2,7 +2,7 @@
 ![Image](hero-technology-hub.jpeg)
 
 ## Start Here 
-### Home [> [How It Works](http://) [> [RFQ / RFQ](http://)
+### About [> [How It Works](http://) [> [RFQ / RFQ](http://)
 ## Principal Growth
 
 Growth has been a way of life for the charter and 'Growth with a social conscience' has been the guiding philosophy. The charter places high commitment on sustainable development of its people and the communities in which it operates. The charter's strength lies in dynamic and aggressive approach with each one committed to consolidating its strengths and excelling in the chosen field.
