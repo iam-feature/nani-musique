@@ -13,7 +13,7 @@ Growth has been a way of life for the charter and 'Growth with a social conscien
   > Gartner Glossary Finance Glossary
     
 SETT Charter, the group architect, engineer and maintain 
-* Digital Assets Under Management (DAUM) 
+* Digital Assets Under Administration (DAUA) 
 * Monitoring of equity 
 * Provisioning assurance and evaluation
 * Publicly serves as Creative Director Fiduciary 
