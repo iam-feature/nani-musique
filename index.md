@@ -12,7 +12,7 @@ Growth has been a way of life for the charter and 'Growth with a social conscien
   
   > Gartner Glossary Finance Glossary
     
-SETT Charter, the group architect, engineer and maintain 
+SETT Charter, the group architects, engineers and maintains 
 * Digital Assets Under Administration (DAUA) 
 * Monitoring of equity 
 * Provisioning assurance and evaluation
