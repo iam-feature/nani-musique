@@ -1,7 +1,7 @@
 ![Image](hero-technology-hub.jpeg)
 ## Principal Growth
 
-Growth has been a way of life for the charter and 'Growth with a social conscience' has been the guiding philosophy. The charter places high commitment on sustainable development of its people and the communities in which it operates. The charter's strength lies in dynamic and aggressive approach with each one committed to consolidating its strengths and excelling in the chosen field
+Growth has been a way of life for the charter and 'Growth with a social conscience' has been the guiding philosophy. The charter places high commitment on sustainable development of its people and the communities in which it operates. The charter's strength lies in dynamic and aggressive approach with each one committed to consolidating its strengths and excelling in the chosen field.
 
 ### Digital Assets
 
@@ -12,22 +12,24 @@ Growth has been a way of life for the charter and 'Growth with a social conscien
   
   > Gartner Glossary Finance Glossary
     
-SETT Charter (the organization) architect, engineer and maintain 
+SETT Charter, the group architect, engineer and maintain 
 * Digital Assets Under Management (DAUM) 
 * Monitoring of equity 
-* Provisioning assurance and evaluation 
+* Provisioning assurance and evaluation
+* Publicly serves as Creative Director Fiduciary 
 
 ### Solutions Architectures and AIMLOps
 
 Growing data analytics, artificial intelligence, logic engineering and machine learning methodologies have improved decision-making resulting in for the charter new growth opportunity, scaled value propositions and dynamic expansion.
 
-### Mastering
+### Universal Design, Engineering and Mastering
 
-Music Copyright, Publishing and Supervision
+Music Copyright, Publishing and Creative Supervision
 * Provisioning guidance to clients, students, and prospects protecting their creative works
 * Business mechanisms that can affect the use of their songs and those of their clients
-* Serve as a creative liaison between the music industry and the visual-media industries, including film, 
-television, video games, and advertising.
+* Serve as a creative liaison between the music industry, the visual-media industries, and creative design 
+including film, television, video games, advertising, fashion, sustainable environments and vessels.
+
 
 ### Support or Contact
 
