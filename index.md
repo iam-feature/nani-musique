@@ -18,7 +18,7 @@ Growth has been a way of life for the charter and 'Growth with a social conscien
   
   > Gartner Glossary Finance Glossary
   
-  > Learn more on [Value Engineering](https://www.igi-global.com/dictionary/intermediaries-commerce-value-creation-roles/31361)
+  > Learn more on [Value Engineering](https://www.igi-global.com/dictionary/intermediaries-commerce-value-creation-roles/31361){:target="_blank"}
  
  #### Tangible Assets
     
@@ -47,7 +47,7 @@ including film, television, video games, advertising, fashion, quantumlithograph
 
 Having trouble with Pages? Check out our [documentation](https://) or [contact support](https://) and we’ll help you sort it out.
 
-#### Legal Notice
 
-> SETT Charter. Copyright (C) 2022 SETT Charter, a plan administration. SETTCHARTER, settcharter are various labels of SETT Charter All Absolute Equity, Title, Rights, Interest, Reserved inherently, bound, observed and protected by patent, trademark, service mark law.
+---
+##### SETT Charter. Copyright (C) 2022 SETT Charter, a plan administration. SETTCHARTER, settcharter are various labels of SETT Charter All Absolute Equity, Title, Rights, Interest, Reserved inherently, bound, observed and protected by patent, trademark, service mark law.
 
