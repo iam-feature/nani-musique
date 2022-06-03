@@ -26,7 +26,7 @@ SETT Charter, the group architects, engineers and maintains
 
 Growing data analytics, artificial intelligence, logic engineering and machine learning methodologies have improved decision-making resulting in for the charter new growth opportunity, scaled value propositions and dynamic expansion.
 
-### Mastering Engineer and Universal Design for Learning
+### Mastering Engineer and Universal Design for Learning & Living
 
 Music Copyright, Publishing and Creative Supervision
 * Provisioning guidance to clients, students, and prospects protecting their creative works
