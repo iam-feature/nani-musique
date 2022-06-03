@@ -21,7 +21,7 @@ Growth has been a way of life for the charter and 'Growth with a social conscien
   
   > Learn more on [Value Engineering](https://www.igi-global.com/dictionary/intermediaries-commerce-value-creation-roles/31361){:target="_blank"} 
 
-
+hxhhdhdhshshshsh
  #### Tangible Assets
     
 SETT Charter, the group architects, engineers and maintains 
