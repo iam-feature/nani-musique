@@ -21,7 +21,7 @@ SETT Charter, the group architects, engineers and maintains
 * Digital Assets Under Administration (DAUA) 
 * Monitoring of equity 
 * Provisioning assurance and evaluation
-* Publicly serves as Creative Director Fiduciary 
+* Publicly serves as Creative Director & Fiduciary 
 
 ### Solutions Architectures and AIMLOps
 
