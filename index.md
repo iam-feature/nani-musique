@@ -8,7 +8,8 @@
 
 Growth has been a way of life for the charter and 'Growth with a social conscience' has been the guiding philosophy. The charter places high commitment on sustainable development of its people and the communities in which it operates. The charter's strength lies in dynamic and aggressive approach with each one committed to consolidating its strengths and excelling in the chosen field.
 
-### Digital Assets
+### Value Engineering 
+#### Digital Assets
 
     A digital asset is anything that is stored digitally and
     is uniquely identifiable that organizations can use to realize value. 
@@ -16,6 +17,10 @@ Growth has been a way of life for the charter and 'Growth with a social conscien
     slide presentations, spreadsheets and websites.
   
   > Gartner Glossary Finance Glossary
+  
+  > Learn more on [Value Engineering](https://www.igi-global.com/dictionary/intermediaries-commerce-value-creation-roles/31361)
+ 
+ #### Tangible Assets
     
 SETT Charter, the group architects, engineers and maintains 
 * Digital Assets Under Administration (DAUA) 
@@ -23,7 +28,8 @@ SETT Charter, the group architects, engineers and maintains
 * Provisioning assurance and evaluation
 * Publicly serves as Creative Director & Fiduciary 
 
-### Solutions Architectures and AIMLOps
+### AIMLOps
+#### Solutions Architectures and Logic Engineering
 
 Growing data analytics, artificial intelligence, logic engineering and machine learning methodologies have improved decision-making resulting in for the charter new growth opportunity, scaled value propositions and dynamic expansion.
 
@@ -34,7 +40,7 @@ Music Copyright, Publishing and Creative Supervision
 * Provisioning guidance to clients, students, and prospects protecting their creative works
 * Business mechanisms that can affect the use of their songs and those of their clients
 * Serve as a creative liaison between the music industry, the visual-media industries, and creative design 
-including film, television, video games, advertising, fashion, sustainable environments and vessels.
+including film, television, video games, advertising, fashion, quantumlithography, sustainable environments and vessels.
 
 
 ### Support or Contact
