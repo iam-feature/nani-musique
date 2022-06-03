@@ -1,5 +1,5 @@
 
-![Image](Aug21_11_864123306.jpeg)
+![Image](Aug21_11_864123306.jpg)
 
 ## About 
 ### About [> [How It Works](http://) [> [RFQ / RFP](http://)
