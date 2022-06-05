@@ -12,7 +12,7 @@ Growth has been a way of life for the charter and 'Growth with a social conscien
 ### Value Engineering 
 #### Digital Assets
 
-    A digital asset is anything that is stored digitally and
+> A digital asset is anything that is stored digitally and
     is uniquely identifiable that organizations can use to realize value. 
     Examples of digital assets include documents, audio, videos, logos, 
     slide presentations, spreadsheets and websites.
