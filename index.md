@@ -39,7 +39,7 @@ Growing data analytics, artificial intelligence, logic engineering and machine l
 ### DesignOps
 #### Mastering Engineer and Universal Design for Learning & Living
 
-Entertaiment and Music Copyright, Publishing and Creative Supervision
+Entertainment and Music Copyright, Publishing and Creative Supervision
 * Provisioning guidance to clients, students, and prospects protecting their creative works
 * Business mechanisms that can affect the use of their songs and those of their clients
 * Serve as a creative liaison between the music industry, the visual-media industries, and creative design 
