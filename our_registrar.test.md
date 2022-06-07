@@ -2,8 +2,8 @@
 ![Image](imgcache/epic2.jpg)
 ###### Creator: Yagi Studio
 
-##  
-About [=> [How It Works](http://) [=> [RFQ / RFP](http://)
+## Our Registrar  
+[=> [Charter Profile](index.md) <span style="background-color:lightyellow;">[=> Our Registrar</span> [=> [Discover Retrospective](http://)
 
 ### Principal Growth
 
