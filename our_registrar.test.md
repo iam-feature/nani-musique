@@ -3,7 +3,7 @@
 ###### Creator: Yagi Studio
 
 ## Our Registrar  
-[=> [Charter Profile](index.md) <span style="background-color:lightyellow;">[=\> Our Registrar</span> [=> [Discover Retrospective](http://)
+[=> [Charter Profile](index.md) <span style="background-color:lightyellow; color:blue;">[=&gt; Our Registrar</span> [=> [Discover Retrospective](http://)
 
 ### A
 
@@ -21,4 +21,4 @@
 > Vivendi is a global leader in culture, entertainment, media and communications.
 
 ---
- SETT Charter. Copyright (C) 2022 SETT Charter, a plan administration. SETTCHARTER, settcharter are various labels of SETT Charter All Absolute Equity, Title, Rights, Interest, Reserved inherently, bound, observed and protected by patent, trademark, service mark law.
+ <span style="color:light-gray; font-weight:none; font-size:10px;"> SETT Charter. Copyright (C) 2022 SETT Charter, a plan administration. SETTCHARTER, settcharter are various labels of SETT Charter All Absolute Equity, Title, Rights, Interest, Reserved inherently, bound, observed and protected by patent, trademark, service mark law.</span>
