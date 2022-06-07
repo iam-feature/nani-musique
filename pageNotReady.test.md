@@ -1,5 +1,5 @@
 
-![Image](imgcahe/epic2.jpg)
+![Image](imgcache/epic2.jpg)
 ###### Creator: Yagi Studio
 
 ##  
