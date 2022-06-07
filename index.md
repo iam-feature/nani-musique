@@ -2,8 +2,8 @@
 ![Image](Aug21_11_864123306.jpg)
 ###### Creator: Yagi Studio
 
-## About 
-About [=> [How It Works](http://) [=> [RFQ / RFP](http://)
+## Charter Profile 
+Charter Profile [=> [Our Group](http://) [=> [Discover Retrospective](http://)
 
 ### Principal Growth
 
