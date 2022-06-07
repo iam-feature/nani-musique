@@ -6,7 +6,7 @@
 [=> [Charter Profile](index.md) <span style="background-color:lightyellow; color:blue;">[=&gt; Our Registrar</span> [=> [Discover Retrospective](http://)
 
 ---
-[A] B C D E F G H I J K L M N O P Q R S T U [^V] W X Y Z
+[A] B C D E F G H I J K L M N O P Q R S T U [V {#v-id}] W X Y Z
 
 ---
 
@@ -52,7 +52,7 @@
 
 ### U
 
-### [^V]:
+<h4 "id=v-id"> [^V] <h4>
 > [Vivendi](https://www.vivendi.com)
 
 > Vivendi is a global leader in culture, entertainment, media and communications.
