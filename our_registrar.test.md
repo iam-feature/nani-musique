@@ -3,7 +3,7 @@
 ###### Creator: Yagi Studio
 
 ## Our Registrar  
-[=> [Charter Profile](index.md) <span style="background-color:lightyellow;">[=> Our Registrar</span> [=> [Discover Retrospective](http://)
+[=> [Charter Profile](index.md) <span style="background-color:lightyellow;">[=\> Our Registrar</span> [=> [Discover Retrospective](http://)
 
 ### Principal Growth
 
