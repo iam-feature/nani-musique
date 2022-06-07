@@ -3,7 +3,7 @@
 ###### Creator: Yagi Studio
 
 ## Charter Profile 
-Charter Profile [=> [Our Group](http://) [=> [Discover Retrospective](http://)
+Charter Profile [=> [Our Registrar](http://) [=> [Discover Retrospective](http://)
 
 ### Principal Growth
 
