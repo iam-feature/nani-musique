@@ -53,14 +53,7 @@
 
 <h4 name="v-id" id="v-id"> V </h4>
  
- [Vivendi](https://www.vivendi.com "This is a test 12"){:target="_blank"}
-
-comment <!-- <div class="myDIV2">[Vivendi](https://www.vivendi.com class="myDIV15"){:target="_blank"}</div> --> expected fail
-
-Test 12
-
-<a href="https://www.vivendi.com" target="_blank" title=" This is test 12">Vivendi</a> old school
-
+> [Vivendi](https://www.vivendi.com "This is a test 12"){:target="_blank"}
 
 > Vivendi is a global leader in culture, entertainment, media and communications.
 
