@@ -32,6 +32,8 @@ SETT Charter, the group architects, engineers and maintains
 * Publicly serves as Creative Director & Fiduciary 
 ---
 ![Image](imgcache/GettyImages-1209661950.jpg)
+###### Creator: Metamorworks / Getty
+
 ### AIMLOps
 #### Solutions Architectures and Logic Engineering
 
