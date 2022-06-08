@@ -54,7 +54,7 @@
 
 <h4 name="v-id" id="v-id"> V </h4>
  
-> [Vivendi](https://www.vivendi.com)
+> [Vivendi](https://www.vivendi.com){:target="_blank"}
 
 > Vivendi is a global leader in culture, entertainment, media and communications.
 
