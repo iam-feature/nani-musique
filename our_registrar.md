@@ -8,8 +8,6 @@
   color: red;
 }
 </style>
-<div class="hide">I am shown when someone hovers over the div above.</div>
-
 
 ![Image](imgcache/epic2.jpg)
 ###### Creator: The Image of Collection
@@ -67,6 +65,7 @@
 <h4 name="v-id" id="v-id"> V </h4>
  
 > [Vivendi](https://www.vivendi.com class="myDIV"){:target="_blank"}
+ <div class="hide">I am shown when someone hovers over the div above.</div>
 
 > Vivendi is a global leader in culture, entertainment, media and communications.
 
