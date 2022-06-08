@@ -6,6 +6,7 @@
 .myDIV:hover + .hide {
   display: block;
   color: red;
+  background-color: gold;
 }
 </style>
 
@@ -64,7 +65,7 @@
 
 <h4 name="v-id" id="v-id"> V </h4>
  
-> [Vivendi](https://www.vivendi.com class="myDIV"){:target="_blank"}
+> [Vivendi](https://www.vivendi.com class="myDIV3"){:target="_blank"}
 <!-- <div class="myDIV2">[Vivendi](https://www.vivendi.com class="myDIV"){:target="_blank"}</div> --> expected fail
 
 <div class="myDIV"><a href="https://www.vivendi.com" target="_blank">Vivendi</a></div> old school
