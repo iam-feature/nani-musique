@@ -1,15 +1,3 @@
-<style>
-.hide {
-  display: none;
-}
-    
-.myDIV:hover + .hide {
-  display: block;
-  color: red;
-  background-color: gold;
-}
-</style>
-
 ![Image](imgcache/epic2.jpg)
 ###### Creator: The Image of Collection
 
@@ -21,7 +9,7 @@
 
 ---
 
-<h4 class="myDIV" name="a-id" id="a-id"> A </h4>
+<h4 name="a-id" id="a-id"> A </h4>
 
 <h4 name="b-id" id="b-id"> B </h4>
 
@@ -65,14 +53,14 @@
 
 <h4 name="v-id" id="v-id"> V </h4>
  
- [Vivendi](https://www.vivendi.com "This is a test 11"){:target="_blank"}
+ [Vivendi](https://www.vivendi.com "This is a test 12"){:target="_blank"}
 
 comment <!-- <div class="myDIV2">[Vivendi](https://www.vivendi.com class="myDIV15"){:target="_blank"}</div> --> expected fail
 
-Test 11
+Test 12
 
-<div id="identifier" class="myDIV"><a href="https://www.vivendi.com" target="_blank">Vivendi</a></div> old school
- <div id="identifier" class="hide">I am shown when someone hovers over the div above.</div>
+<a href="https://www.vivendi.com" target="_blank" title=" This is test 12">Vivendi</a> old school
+
 
 > Vivendi is a global leader in culture, entertainment, media and communications.
 
