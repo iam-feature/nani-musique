@@ -65,14 +65,14 @@
 
 <h4 name="v-id" id="v-id"> V </h4>
  
-> [Vivendi](https://www.vivendi.com){:target="_blank" #identifier .myDIV}
+> [Vivendi](https://www.vivendi.com){:target="_blank"}
 
-comment <!-- <div class="myDIV2">[Vivendi](https://www.vivendi.com class="myDIV"){:target="_blank"}</div> --> expected fail
+comment <!-- <div class="myDIV2">[Vivendi](https://www.vivendi.com class="myDIV15"){:target="_blank"}</div> --> expected fail
 
-Test 7
+Test 8
 
-<div class="myDIV3"><a href="https://www.vivendi.com" target="_blank">Vivendi</a></div> old school
- <div class="hide">I am shown when someone hovers over the div above.</div>
+<div id="identifier" class="myDIV"><a href="https://www.vivendi.com" target="_blank">Vivendi</a></div> old school
+ <div id="identifier" class="hide">I am shown when someone hovers over the div above.</div>
 
 > Vivendi is a global leader in culture, entertainment, media and communications.
 
