@@ -1,3 +1,15 @@
+<style>
+.hide {
+  display: none;
+}
+    
+.myDIV:hover + .hide {
+  display: block;
+  color: red;
+}
+</style>
+<div class="hide">I am shown when someone hovers over the div above.</div>
+
 
 ![Image](imgcache/epic2.jpg)
 ###### Creator: The Image of Collection
@@ -10,7 +22,7 @@
 
 ---
 
-<h4 name="a-id" id="a-id"> A </h4>
+<h4 class="myDIV" name="a-id" id="a-id"> A </h4>
 
 <h4 name="b-id" id="b-id"> B </h4>
 
@@ -54,7 +66,7 @@
 
 <h4 name="v-id" id="v-id"> V </h4>
  
-> [Vivendi](https://www.vivendi.com){:target="_blank"}
+> [Vivendi](https://www.vivendi.com class="myDIV"){:target="_blank"}
 
 > Vivendi is a global leader in culture, entertainment, media and communications.
 
