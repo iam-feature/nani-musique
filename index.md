@@ -30,7 +30,8 @@ SETT Charter, the group architects, engineers and maintains
 * Monitoring of equity 
 * Provisioning assurance and evaluation
 * Publicly serves as Creative Director & Fiduciary 
-
+---
+![Image](imgcache/Aug21_11_86412330.jpg)
 ### AIMLOps
 #### Solutions Architectures and Logic Engineering
 
