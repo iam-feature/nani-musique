@@ -31,6 +31,7 @@ SETT Charter, the group architects, engineers and maintains
 * Provisioning assurance and evaluation
 * Publicly serves as Creative Director & Fiduciary 
 ---
+
 ![Image](imgcache/GettyImages-1209661950.jpg)
 ###### Creator: Metamorworks / Getty
 
