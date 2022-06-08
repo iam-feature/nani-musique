@@ -3,7 +3,7 @@
 ###### Creator: Yagi Studio
 
 ## Charter Profile 
-Charter Profile [=> <span style="background-color:lightyellow;">[Our Registrar](/our_registrar.md)</span> [=> [Discover Retrospective](http://)
+Charter Profile | <span style="background-color:lightyellow;">[Our Registrar](/our_registrar.md)</span> | [Discover Retrospective](http://)
 
 ### Principal Growth
 
