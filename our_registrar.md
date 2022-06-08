@@ -65,7 +65,8 @@
 <h4 name="v-id" id="v-id"> V </h4>
  
 > [Vivendi](https://www.vivendi.com class="myDIV"){:target="_blank"}
-<div class="myDIV2">[Vivendi](https://www.vivendi.com class="myDIV"){:target="_blank"}</div> expected fail
+<!-- <div class="myDIV2">[Vivendi](https://www.vivendi.com class="myDIV"){:target="_blank"}</div> --> expected fail
+
 <div class="myDIV"><a href="https://www.vivendi.com" target="_blank">Vivendi</a></div> old school
  <div class="hide">I am shown when someone hovers over the div above.</div>
 
