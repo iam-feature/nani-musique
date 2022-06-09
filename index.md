@@ -57,7 +57,7 @@ Having trouble with Pages? Check out our [documentation](https://) or [contact s
 
 
 ---
- <span style="background-color:none; border:15px solid gold; color:none; font-weight:none; font-size:10px;"> SETT Charter. Copyright (C) 2022 SETT Charter, a plan administration. SETTCHARTER, settcharter are various labels of SETT Charter All Absolute Equity, Title, Rights, Interest, Reserved inherently, bound, observed and protected by patent, trademark, service mark law.
+ <div style="background-color:none; border:15px solid gold; color:none; font-weight:none; font-size:10px;"> SETT Charter. Copyright (C) 2022 SETT Charter, a plan administration. SETTCHARTER, settcharter are various labels of SETT Charter All Absolute Equity, Title, Rights, Interest, Reserved inherently, bound, observed and protected by patent, trademark, service mark law.
 
 Carl Icahn
 16690 Collins Ave, PH-1
@@ -66,4 +66,4 @@ admin@carlIcahn.com
 
  
 Copyright © 2022 • Carl Icahn • Legal • Follow me on Twitter • Contact Us • Subscribe to our newsletter
-</span>
+</div>
