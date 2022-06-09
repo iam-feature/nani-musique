@@ -64,8 +64,8 @@ Having trouble with Pages? Check out our [documentation](https://) or [contact s
 <br>Mario Stevenson, B.P.A.
     <br> Legati & Principal
 <br>Mesa, AZ 85210
-    <br><a style="color:lightblue" href="admin@eirt.xyz">admin@eirt.com</a>
-    <br>MoneyGram e-mail: <a style="color:lightblue" href="abr@eirt.xyz">abr@eirt.com</a>
+    <br><a style="color:lightblue" href="admin@eirt.xyz">admin@eirt.xyz</a>
+    <br>MoneyGram e-mail: <a style="color:lightblue" href="abr@eirt.xyz">abr@eirt.xyz</a>
     <br>MoneyGram telephone: <span style="color:lightblue">+1-602-767-4820</span>
 </div>
 <br>
