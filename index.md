@@ -68,5 +68,5 @@ admin@eirt.com
 </p>
 
  
-Copyright © 2022 • Mario Stevenson  • Legal • Follow me on <a href="https:///telegram.org/dl" target="_blank"style="color:lightblue">Telegram @iamfeature</a> </br> <a href="info@eirt.xyz">Contact Us</a> • Subscribe to our newsletter
+Copyright © 2022 • Mario Stevenson  • Legal • Follow me on <a href="https://telegram.org/dl" target="_blank" style="color:lightblue">Telegram @iamfeature</a> </br> <a href="info@eirt.xyz">Contact Us</a> • Subscribe to our newsletter
 </div>
