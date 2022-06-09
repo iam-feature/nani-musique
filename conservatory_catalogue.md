@@ -77,8 +77,7 @@ With millions of downloads, the MoneyGram money transfer app is an easier way to
 
 > [Universal Music Group UMG](https://www.universalmusic.com/company/#organization){:target="_blank"}
 
-> Home to Artists, Innovators and Entrepreneurs | UMG. With offices in more than 60 territories, Universal Music Group N.V. (“Universal Music Group” or “UMG”) is the world leader in music-based entertainment.
-
+> Home to Artists, Innovators and Entrepreneurs, UMG. With offices in more than 60 territories, Universal Music Group N.V. (“Universal Music Group” or “UMG”) is the world leader in music-based entertainment.
 > Universal Music Group’s corporate headquarters are located in Hilversum, Netherlands and its operational headquarters are located in Santa Monica, California, USA.
 
 <h4 name="v-id" id="v-id"> V </h4>
