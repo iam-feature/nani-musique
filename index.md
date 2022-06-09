@@ -59,9 +59,10 @@ including film, television, video games, advertising, fashion, quantumlithograph
 >
 > - Revenue was off the chart.
 > - Profits were higher than ever.
-> - $333K per Session.
+> - $333,000 minimum per session.
 >
 >  *Everything* is going according to **plan**.
+>  *Contact us for details.*  **Be ready to submit payment**. 
 
 
 ---
