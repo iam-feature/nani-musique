@@ -32,6 +32,7 @@
 > [Credly](https://info.credly.com){:target="_blank"}
 
 > The Credly Network. The most-connected network. 
+> 
 > The top training brands, certification providers, higher education institutions, professional associations, and employers choose Credly as their digital credential network. [View it in action](http://www.credly.com/users/mario-stevenson){:target="_blank"}
 
 
