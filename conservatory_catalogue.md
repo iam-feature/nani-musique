@@ -6,11 +6,11 @@
 
 > Conservatory, Conservatoire a school of advanced studies, usually in one of the fine arts, hence, the students and professors collectively; a repository of knowledge.
  
-#### Stay In The Know
+#### Stay In The Know-AI | SITK-AI(TM)
 - [ ] Prefill a session block valued at $16,800; 
 - [ ] Agree and sign a per diem promissory note; 
 - [ ] Select any 20 days per annum; 
-- [ ] We provision affluent networks, luxury and private equity tours. 
+- [ ] We provision AIMLOps affluent networks, luxury and private equity tours. 
  
 ---
 [A](conservatory_catalogue.md#a-id) [B](conservatory_catalogue.md#b-id) [C](conservatory_catalogue.md#c-id) [D](conservatory_catalogue.md#d-id) [E](conservatory_catalogue.md#e-id) [F](conservatory_catalogue.md#f-id) [G](conservatory_catalogue.md#g-id) [H](conservatory_catalogue.md#h-id) [I](conservatory_catalogue.md#i-id) [J](conservatory_catalogue.md#j-id) [K](conservatory_catalogue.md#k-id) [L](conservatory_catalogue.md#l-id) [M](conservatory_catalogue.md#m-id) [N](conservatory_catalogue.md#n-id) [O](conservatory_catalogue.md#o-id) [P](conservatory_catalogue.md#p-id) [Q](conservatory_catalogue.md#q-id) [R](conservatory_catalogue.md#r-id) [S](conservatory_catalogue.md#s-id) [T](conservatory_catalogue.md#t-id) [U](conservatory_catalogue.md#u-id) [V](conservatory_catalogue.md#v-id) [W](conservatory_catalogue.md#w-id) [X](conservatory_catalogue.md#x-id) [Y](conservatory_catalogue.md#y-id) [Z](conservatory_catalogue.md#z-id)
@@ -151,7 +151,7 @@ We create educational experiences that tap into interests and passions to spark 
 </div>
 <br>
 <div> 
-Copyright © 2022 SETT Charter, Mario F Stevenson, B.P.A. (a/k/a/ Mario Feature Stevenson; a/k/a/ IamFeature; a/k/a Feature.) SETT Charter, a plan administration. SETTCHARTER, settcharter are various labels of SETT Charter All Absolute Equity, Title, Rights, Interest, Reserved inherently, bound, observed and protected by patent, trademark, service mark law.  
+Copyright © 2022 SETT Charter, Mario F Stevenson, B.P.A. (a/k/a/ Mario Feature Stevenson; a/k/a/ IamFeature; a/k/a Feature.) SETT Charter, a plan administration. SETTCHARTER, settcharter, SITK-AI(TM) are various labels of SETT Charter All Absolute Equity, Title, Rights, Interest, Reserved inherently, bound, observed and protected by patent, trademark, service mark law.  
     <br><br><div> <a style="color:lightblue" href="/legal.md">Legal</a> • Follow me on <a href="https://telegram.org/dl" target="_blank" style="color:lightblue">Telegram @iamfeature</a> • <a style="color:lightblue" href="info@eirt.xyz">Contact Us</a> • Subscribe to our newsletter
     </div></div>
  
