@@ -2,13 +2,9 @@
 ![Image](imgcache/Aug21_11_864123306.jpg)
 ###### Creator: Yagi Studio
 
-<div style="bgcolor:none; background-color:gray; padding:15px; border:15px solid gray; color:white; font-weight:none; font-size:none;"> 
-    
 ## Charter Profile
     
 <span style="background-color:lightyellow;">Charter Profile</span> | [Conservatory Registrar](/conservatory_registrar.md) | [Discover Retrospective](http://)
-
-</div> 
 
 ### Principal Growth
 
