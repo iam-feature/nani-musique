@@ -76,4 +76,19 @@
 <h4 name="z-id" id="z-id"> Z </h4>
 
 ---
- <span style="color:light-gray; font-weight:none; font-size:10px;"> SETT Charter. Copyright (C) 2022 SETT Charter, a plan administration. SETTCHARTER, settcharter are various labels of SETT Charter All Absolute Equity, Title, Rights, Interest, Reserved inherently, bound, observed and protected by patent, trademark, service mark law.</span>
+ <div style="bgcolor:; background-color:gray; padding:15px; border:15px solid gray; color:white; font-weight:none; font-size:11px;">
+    
+<div>
+<br>Mario Stevenson, B.P.A.,
+    <br> Legati & Principal
+<br>Mesa, AZ 85210
+    <br><a style="color:lightblue" href="admin@eirt.xyz">admin@eirt.xyz</a>
+    <br>Accounts Billable Receivable (ABR / AR) e-mail: <a style="color:lightblue" href="abr@eirt.xyz">abr@eirt.xyz</a>
+    <br>MoneyGram telephone: <a style="color:lightblue" href="+1-602-767-4820">+1-602-767-4820</a>
+    <br>MoneyGram e-mail address <a style="color:lightblue" href="voice.directory@outlook.com">voice.directory@outlook.com</a>
+</div>
+<br>
+<div> 
+Copyright © 2022 SETT Charter, Mario F Stevenson, B.P.A. (a/k/a/ Mario Feature Stevenson; a/k/a/ IamFeature; a/k/a Feature.) SETT Charter, a plan administration. SETTCHARTER, settcharter are various labels of SETT Charter All Absolute Equity, Title, Rights, Interest, Reserved inherently, bound, observed and protected by patent, trademark, service mark law.  
+    <br><br><div> <a style="color:lightblue" href="/legal.md">Legal</a> • Follow me on <a href="https://telegram.org/dl" target="_blank" style="color:lightblue">Telegram @iamfeature</a> • <a style="color:lightblue" href="info@eirt.xyz">Contact Us</a> • Subscribe to our newsletter
+    </div></div>
