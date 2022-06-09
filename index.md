@@ -22,7 +22,7 @@ Growth has been a way of life for the charter and 'Growth with a social conscien
 >
 >  *Everything* is going according to **plan**.
 >  *Contact us for details.*  **Be ready to submit payment.** 
-> From start to finish, 20% deposit, non-refundable.
+>  From start to finish, 20% deposit, non-refundable.
 
 ### Value Engineering 
 #### Digital Assets
