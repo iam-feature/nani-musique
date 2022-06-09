@@ -19,6 +19,10 @@
 
 > Founded in 2002, Berklee Online is the premier innovator and largest provider of worldwide music education, offering more than 75,000 students from 164 countries the renowned curriculum of Berklee College of Music, at a fraction of the cost. Berklee is accredited by the New England Commission of Higher Education "NECHE" (formerly NEASC). Berklee Online is a University Professional and Continuing Education Association (UPCEA) award-winner sixteen years in a row (2005-2021).
 
+> [BuiltIn](https://builtin.com/premium/membership){:target="_blank"}
+
+> UNITED WE TECH. Built In is the online community for startups and tech companies. Find startup jobs, tech news and events.
+
 <h4 name="c-id" id="c-id"> C </h4>
 
 > [The Set Collection](https://www.thesetcollection.com/){:target="_blank"}
@@ -84,6 +88,10 @@ With millions of downloads, the MoneyGram money transfer app is an easier way to
 > ROC NATION. The world's preeminent entertainment company. Creating and supporting careers in every aspect of modern entertainment.
 
 <h4 name="s-id" id="s-id"> S </h4>
+
+> [SkyMobile](http://skymobile.refr.cc/settcharter){:target="_blank"}
+
+> SkyMobile has been proudly providing portable internet to those who live in rural areas since 2016. Our customers have been completely satisfied with their switch from satelite or DSL/Dial Up internet. 
 
 <h4 name="t-id" id="t-id"> T </h4>
 
