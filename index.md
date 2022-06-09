@@ -7,7 +7,8 @@
 ## Charter Profile 
     
 <span style="background-color:lightyellow;">Charter Profile</span> | [Conservatory Registrar](/conservatory_registrar.md) | [Discover Retrospective](http://)
- </div>
+
+</div>
 
 ### Principal Growth
 
