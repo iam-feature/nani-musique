@@ -1,7 +1,7 @@
 ![Image](imgcache/epic2.jpg)
 ###### Creator: The Image of Collection
 
-## Conservatory Registrar  
+## Conservatory Catalogue  
 [Charter Profile](index.md) | <span style="background-color:lightyellow; color:blue;"> Conservatory Catalogue</span> | [CEF Retrospective](http://)
 
 > Conservatory, Conservatoire a school of advanced studies, usually in one of the fine arts, hence, the students and professors collectively; a repository of knowledge.
