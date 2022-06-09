@@ -61,13 +61,13 @@ Having trouble with Pages? Check out our [documentation](https://) or [contact s
  <div style="bgcolor:; background-color:gray; padding:15px; border:15px solid gray; color:white; font-weight:none; font-size:11px;">
     
 <div>
-<br>Mario Stevenson, B.P.A.
+<br>Mario Stevenson, B.P.A.,
     <br> Legati & Principal
 <br>Mesa, AZ 85210
     <br><a style="color:lightblue" href="admin@eirt.xyz">admin@eirt.xyz</a>
     <br>Accounts Billable Receivable (ABR / AR) e-mail: <a style="color:lightblue" href="abr@eirt.xyz">abr@eirt.xyz</a>
     <br>MoneyGram telephone: <span style="color:lightblue">+1-602-767-4820</span>
-    <br>MoneyGram e-mail address <span style='color:lightblue"><a href="voice.directory@outlook.com">voice.directory@outlook.com</a></span>
+    <br>MoneyGram e-mail address <span style="color:lightblue"><a href="voice.directory@outlook.com">voice.directory@outlook.com</a></span>
 </div>
 <br>
 <div> 
