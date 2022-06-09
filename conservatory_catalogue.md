@@ -61,6 +61,12 @@
 
 <h4 name="u-id" id="u-id"> U </h4>
 
+> [Universal Music Group UMG](https://www.universalmusic.com/company/#organization){:target="_blank"}
+
+> Home to Artists, Innovators and Entrepreneurs | UMG. With offices in more than 60 territories, Universal Music Group N.V. (“Universal Music Group” or “UMG”) is the world leader in music-based entertainment.
+
+Universal Music Group’s corporate headquarters are located in Hilversum, Netherlands and its operational headquarters are located in Santa Monica, California, USA.
+
 <h4 name="v-id" id="v-id"> V </h4>
  
 > [Vivendi](https://www.vivendi.com "This is a test 12"){:target="_blank"}
@@ -92,3 +98,5 @@
 Copyright © 2022 SETT Charter, Mario F Stevenson, B.P.A. (a/k/a/ Mario Feature Stevenson; a/k/a/ IamFeature; a/k/a Feature.) SETT Charter, a plan administration. SETTCHARTER, settcharter are various labels of SETT Charter All Absolute Equity, Title, Rights, Interest, Reserved inherently, bound, observed and protected by patent, trademark, service mark law.  
     <br><br><div> <a style="color:lightblue" href="/legal.md">Legal</a> • Follow me on <a href="https://telegram.org/dl" target="_blank" style="color:lightblue">Telegram @iamfeature</a> • <a style="color:lightblue" href="info@eirt.xyz">Contact Us</a> • Subscribe to our newsletter
     </div></div>
+ 
+ 
