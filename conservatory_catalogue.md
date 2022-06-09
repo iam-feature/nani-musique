@@ -40,6 +40,10 @@
 
 <h4 name="h-id" id="h-id"> H </h4>
 
+> [Hofstra](https://www.hofstra.edu/undergraduate/music-business.html){:target="_blank"}
+
+> Hofstra's proximity to New York City provides you with ready access to the heart of the world's music capital, its legendary music venues, the epicenter of the recording and publishing industries, streaming music providers, management companies, concert promoters, and music startups. Our music business faculty and alumni are intrinsically connected to the music industry assisting to provide internship and job placement for our students.
+
 <h4 name="i-id" id="i-id"> I </h4>
 
 > [IGI Global](https://www.igi-global.com/){:target="_blank"}
