@@ -4,7 +4,7 @@
 
 ## Charter Profile
     
-<span style="background-color:lightyellow;">Charter Profile</span> | [Conservatory Registrar](/conservatory_registrar.md) | [Discover Retrospective](http://)
+<span style="background-color:lightyellow;">Charter Profile</span> | [Conservatory Catalogue Index](/conservatory_registrar.md) | [Discover Retrospective](http://)
 
 ### Principal Growth
 
@@ -60,11 +60,13 @@ Having trouble with Pages? Check out our [documentation](https://) or [contact s
 ---
  <div style="bgcolor:; background-color:gray; padding:15px; border:15px solid gray; color:white; font-weight:none; font-size:10px;"> SETT Charter. Copyright (C) 2022 SETT Charter, a plan administration. SETTCHARTER, settcharter are various labels of SETT Charter All Absolute Equity, Title, Rights, Interest, Reserved inherently, bound, observed and protected by patent, trademark, service mark law.
 
+<div>
 Carl Icahn
 16690 Collins Ave, PH-1
 Sunny Isles Beach, FL 33160
-admin@carlIcahn.com
+admin@eirt.com
+</div>
 
  
-Copyright © 2022 • Carl Icahn • Legal • Follow me on Twitter • Contact Us • Subscribe to our newsletter
+Copyright © 2022 • Carl Icahn • Legal • Follow me on Telegram @iamfeature • [Contact Us](info@eirt.xyz • Subscribe to our newsletter
 </div>
