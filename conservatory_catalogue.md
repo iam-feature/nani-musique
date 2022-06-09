@@ -2,12 +2,12 @@
 ###### Creator: The Image of Collection
 
 ## Conservatory Registrar  
-[Charter Profile](index.md) <span style="background-color:lightyellow; color:blue;">| Conservatory Registrar</span> | [Discover Retrospective](http://)
+[Charter Profile](index.md) <span style="background-color:lightyellow; color:blue;"> Conservatory Catalogue</span>  [CEF Retrospective](http://)
 
 > Conservatory, Conservatoire a school of advanced studies, usually in one of the fine arts, hence, the students and professors collectively; a repository of knowledge.
  
 ---
-[A](our_registrar.md#a-id) [B](our_registrar.md#b-id) [C](our_registrar.md#c-id) [D](our_registrar.md#d-id) [E](our_registrar.md#e-id) [F](our_registrar.md#f-id) [G](our_registrar.md#g-id) [H](our_registrar.md#h-id) [I](our_registrar.md#i-id) [J](our_registrar.md#j-id) [K](our_registrar.md#k-id) [L](our_registrar.md#l-id) [M](our_registrar.md#m-id) [N](our_registrar.md#n-id) [O](our_registrar.md#o-id) [P](our_registrar.md#p-id) [Q](our_registrar.md#q-id) [R](our_registrar.md#r-id) [S](our_registrar.md#s-id) [T](our_registrar.md#t-id) [U](our_registrar.md#u-id) [V](our_registrar.md#v-id) [W](our_registrar.md#w-id) [X](our_registrar.md#x-id) [Y](our_registrar.md#y-id) [Z](our_registrar.md#z-id)
+[A](conservatory_catalogue.md#a-id) [B](conservatory_catalogue.md#b-id) [C](conservatory_catalogue.md#c-id) [D](conservatory_catalogue.md#d-id) [E](conservatory_catalogue.md#e-id) [F](conservatory_catalogue.md#f-id) [G](conservatory_catalogue.md#g-id) [H](conservatory_catalogue.md#h-id) [I](conservatory_catalogue.md#i-id) [J](conservatory_catalogue.md#j-id) [K](conservatory_catalogue.md#k-id) [L](conservatory_catalogue.md#l-id) [M](conservatory_catalogue.md#m-id) [N](conservatory_catalogue.md#n-id) [O](conservatory_catalogue.md#o-id) [P](conservatory_catalogue.md#p-id) [Q](conservatory_catalogue.md#q-id) [R](conservatory_catalogue.md#r-id) [S](conservatory_catalogue.md#s-id) [T](conservatory_catalogue.md#t-id) [U](conservatory_catalogue.md#u-id) [V](conservatory_catalogue.md#v-id) [W](conservatory_catalogue.md#w-id) [X](conservatory_catalogue.md#x-id) [Y](conservatory_catalogue.md#y-id) [Z](conservatory_catalogue.md#z-id)
 
 ---
 
