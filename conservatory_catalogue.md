@@ -6,7 +6,7 @@
 
 > Conservatory, Conservatoire a school of advanced studies, usually in one of the fine arts, hence, the students and professors collectively; a repository of knowledge.
  
- [ ] Prefill a session block offering at $16,800; [ ] Agree and sign a per diem promissory note; [ ] Select any 20 days per annum; [ ] We provide private equity tour, wealth and status. 
+ -[ ] Prefill a session block offering at $16,800; -[ ] Agree and sign a per diem promissory note; -[ ] Select any 20 days per annum; -[ ] We provide private equity tour, wealth and status. 
  
 ---
 [A](conservatory_catalogue.md#a-id) [B](conservatory_catalogue.md#b-id) [C](conservatory_catalogue.md#c-id) [D](conservatory_catalogue.md#d-id) [E](conservatory_catalogue.md#e-id) [F](conservatory_catalogue.md#f-id) [G](conservatory_catalogue.md#g-id) [H](conservatory_catalogue.md#h-id) [I](conservatory_catalogue.md#i-id) [J](conservatory_catalogue.md#j-id) [K](conservatory_catalogue.md#k-id) [L](conservatory_catalogue.md#l-id) [M](conservatory_catalogue.md#m-id) [N](conservatory_catalogue.md#n-id) [O](conservatory_catalogue.md#o-id) [P](conservatory_catalogue.md#p-id) [Q](conservatory_catalogue.md#q-id) [R](conservatory_catalogue.md#r-id) [S](conservatory_catalogue.md#s-id) [T](conservatory_catalogue.md#t-id) [U](conservatory_catalogue.md#u-id) [V](conservatory_catalogue.md#v-id) [W](conservatory_catalogue.md#w-id) [X](conservatory_catalogue.md#x-id) [Y](conservatory_catalogue.md#y-id) [Z](conservatory_catalogue.md#z-id)
