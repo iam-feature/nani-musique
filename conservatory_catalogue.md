@@ -15,6 +15,10 @@
 
 <h4 name="b-id" id="b-id"> B </h4>
 
+> [Berklee University](https://online.berklee.edu){:target="_blank"}
+
+> Founded in 2002, Berklee Online is the premier innovator and largest provider of worldwide music education, offering more than 75,000 students from 164 countries the renowned curriculum of Berklee College of Music, at a fraction of the cost. Berklee is accredited by the New England Commission of Higher Education "NECHE" (formerly NEASC). Berklee Online is a University Professional and Continuing Education Association (UPCEA) award-winner sixteen years in a row (2005-2021).
+
 <h4 name="c-id" id="c-id"> C </h4>
 
 <h4 name="d-id" id="d-id"> D </h4>
