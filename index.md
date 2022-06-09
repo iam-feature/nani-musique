@@ -51,10 +51,17 @@ Entertainment and Music Copyright, Publishing and Creative Supervision
 * Serve as a creative liaison between the music industry, the visual-media industries, and creative design 
 including film, television, video games, advertising, fashion, quantumlithography, sustainable environments and vessels.
 
+---
 
-### Support or Contact
+![Image](imgcache/chrome_screenshot_1654792467712.png)
 
-Having trouble with Pages? Check out our [documentation](https://) or [contact support](https://) and we’ll help you sort it out.
+> #### The quarterly results look great!
+>
+> - Revenue was off the chart.
+> - Profits were higher than ever.
+> - $333K per Session.
+>
+>  *Everything* is going according to **plan**.
 
 
 ---
