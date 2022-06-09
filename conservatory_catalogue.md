@@ -21,6 +21,15 @@
 
 <h4 name="c-id" id="c-id"> C </h4>
 
+> [The Set Collection](https://www.thesetcollection.com/){:target="_blank"}
+
+> At the most outstanding addresses, in the worlds most vibrant destinations, The Set Collection is bringing together the modern grand hotels of our time.
+
+> [Conservatorium Hotel](https://www.conservatoriumhotel.com/){:target="_blank"}
+
+> Proudly, the Conservatorium has repeatedly been crowned the number one luxury hotel in the Netherlands. Located in the Museum Square district, the cultural heart of the city, the Conservatorium is an architectural masterpiece that combines a landmark heritage building with graceful, contemporary design. Guests are able to enjoy a selection of restaurants, a bar, lounge and 1,000 sq m of Akasha Holistic Wellbeing. The city's crown jewels – the Van Gogh Museum, Concertgebouw, Rijksmuseum, and Vondelpark  – are conveniently at your doorstep. For culture and for business, it's a location like no other. [Learn more...](https://www.conservatoriumhotel.com/about-the-hotel){:target="_blank"}
+
+
 <h4 name="d-id" id="d-id"> D </h4>
 
 <h4 name="e-id" id="e-id"> E </h4>
