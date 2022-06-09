@@ -63,9 +63,9 @@ Having trouble with Pages? Check out our [documentation](https://) or [contact s
 <div>
 Mario Stevenson
 <br>Mesa, AZ 85210
-<br>admin@eirt.com
+    <br><a style="color:lightblue" href="info@eirt.xyz">admin@eirt.com</a>
 </div>
-
+<br>
  
 Copyright © 2022 • Mario F Stevenson (a/k/a/ Mario Feature Stevenson; a/k/a/ IamFeature; a/k/a Feature)  • <a style="color:lightblue" href="/legal.md">Legal</a> • Follow me on <a href="https://telegram.org/dl" target="_blank" style="color:lightblue">Telegram @iamfeature</a> <br> <a style="color:lightblue" href="info@eirt.xyz">Contact Us</a> • Subscribe to our newsletter
 </div>
