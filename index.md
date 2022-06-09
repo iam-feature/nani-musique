@@ -68,5 +68,5 @@ admin@eirt.com
 </p>
 
  
-Copyright © 2022 • Carl Icahn • Legal • Follow me on Telegram @iamfeature • [Contact Us](info@eirt.xyz • Subscribe to our newsletter
+Copyright © 2022 • Mario Stevenson  • Legal • Follow me on <a href="https:///telegram.org/dl" target="_blank">Telegram @iamfeature</a> • <a href="info@eirt.xyz">Contact Us</a> • Subscribe to our newsletter
 </div>
