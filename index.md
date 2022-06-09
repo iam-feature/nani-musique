@@ -61,12 +61,11 @@ Having trouble with Pages? Check out our [documentation](https://) or [contact s
  <div style="bgcolor:; background-color:gray; padding:15px; border:15px solid gray; color:white; font-weight:none; font-size:10px;"> SETT Charter. Copyright (C) 2022 SETT Charter, a plan administration. SETTCHARTER, settcharter are various labels of SETT Charter All Absolute Equity, Title, Rights, Interest, Reserved inherently, bound, observed and protected by patent, trademark, service mark law.
 
 <p>
-Carl Icahn
-16690 Collins Ave, PH-1
-Sunny Isles Beach, FL 33160
-admin@eirt.com
+Mario Stevenson
+<br>Mesa, AZ 85210
+<br>admin@eirt.com
 </p>
 
  
-Copyright © 2022 • Mario Stevenson  • Legal • Follow me on <a href="https://telegram.org/dl" target="_blank" style="color:lightblue">Telegram @iamfeature</a> </br> <a href="info@eirt.xyz">Contact Us</a> • Subscribe to our newsletter
+Copyright © 2022 • Mario F Stevenson (a/k/a/ Mario Feature Stevenson; a/k/a/ IamFeature; a/k/a Feature)  • <a style="lightblue" href="/legal.md">Legal</a> • Follow me on <a href="https://telegram.org/dl" target="_blank" style="color:lightblue">Telegram @iamfeature</a> <br> <a style="color:lightblue" href="info@eirt.xyz">Contact Us</a> • Subscribe to our newsletter
 </div>
