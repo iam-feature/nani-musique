@@ -30,6 +30,7 @@
 <h4 name="i-id" id="i-id"> I </h4>
 
 > [IGI Global](https://www.igi-global.com/){:target="_blank"}
+
 > Founded in 1988 and headquartered in Hershey, Pennsylvania, USA with a subsidiary office (IGI Science and Technology, Ltd.), operating out of Beijing, China, IGI Global is a leading international academic publisher committed to facilitating the discovery of pioneering research that enhances and expands the body of knowledge available to the research community. Working in close collaboration with expert researchers and professionals from leading institutions, including Massachusetts Institute of Technology (MIT), Harvard University, Stanford University, University of Cambridge, University of Oxford, Tsinghua University, and Australian National University, IGI Global disseminates quality content across 350+ topics in 11 core subject areas.
 
 <h4 name="j-id" id="j-id"> J </h4>
