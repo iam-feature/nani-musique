@@ -10,6 +10,19 @@
 
 Growth has been a way of life for the charter and 'Growth with a social conscience' has been the guiding philosophy. The charter places high commitment on sustainable development of its people and the communities in which it operates. The charter's strength lies in dynamic and aggressive approach with each one committed to consolidating its strengths and excelling in the chosen field.
 
+---
+
+![Image](imgcache/chrome_screenshot_1654792467712.png)
+
+> #### The quarterly results look great!
+>
+> - Revenue was off the chart.
+> - Profits were higher than ever.
+> - $333,000 minimum per session.
+>
+>  *Everything* is going according to **plan**.
+>  *Contact us for details.*  **Be ready to submit payment**. 
+
 ### Value Engineering 
 #### Digital Assets
 
@@ -50,20 +63,6 @@ Entertainment and Music Copyright, Publishing and Creative Supervision
 * Business mechanisms that can affect the use of their songs and those of their clients
 * Serve as a creative liaison between the music industry, the visual-media industries, and creative design 
 including film, television, video games, advertising, fashion, quantumlithography, sustainable environments and vessels.
-
----
-
-![Image](imgcache/chrome_screenshot_1654792467712.png)
-
-> #### The quarterly results look great!
->
-> - Revenue was off the chart.
-> - Profits were higher than ever.
-> - $333,000 minimum per session.
->
->  *Everything* is going according to **plan**.
->  *Contact us for details.*  **Be ready to submit payment**. 
-
 
 ---
  <div style="bgcolor:; background-color:gray; padding:15px; border:15px solid gray; color:white; font-weight:none; font-size:11px;">
