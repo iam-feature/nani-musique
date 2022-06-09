@@ -45,6 +45,11 @@
 
 <h4 name="m-id" id="m-id"> M </h4>
 
+> [MoneyGram](https://www.moneygram.com/RAF/RAFBDJED5Y){:target="_blank"}
+
+> Money Transfers at your Fingertips
+With millions of downloads, the MoneyGram money transfer app is an easier way to send money from the United States, pay bills and more. But don’t just take our word for it – our customers are loving everything the wire transfer app has to offer.
+
 <h4 name="n-id" id="n-id"> N </h4>
 
 <h4 name="o-id" id="o-id"> O </h4>
@@ -65,7 +70,7 @@
 
 > Home to Artists, Innovators and Entrepreneurs | UMG. With offices in more than 60 territories, Universal Music Group N.V. (“Universal Music Group” or “UMG”) is the world leader in music-based entertainment.
 
-Universal Music Group’s corporate headquarters are located in Hilversum, Netherlands and its operational headquarters are located in Santa Monica, California, USA.
+> Universal Music Group’s corporate headquarters are located in Hilversum, Netherlands and its operational headquarters are located in Santa Monica, California, USA.
 
 <h4 name="v-id" id="v-id"> V </h4>
  
