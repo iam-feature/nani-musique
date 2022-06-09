@@ -29,6 +29,11 @@
 
 > Proudly, the Conservatorium has repeatedly been crowned the number one luxury hotel in the Netherlands. Located in the Museum Square district, the cultural heart of the city, the Conservatorium is an architectural masterpiece that combines a landmark heritage building with graceful, contemporary design. Guests are able to enjoy a selection of restaurants, a bar, lounge and 1,000 sq m of Akasha Holistic Wellbeing. The city's crown jewels – the Van Gogh Museum, Concertgebouw, Rijksmuseum, and Vondelpark  – are conveniently at your doorstep. For culture and for business, it's a location like no other. [Learn more...](https://www.conservatoriumhotel.com/about-the-hotel){:target="_blank"}
 
+> [Credly](https://info.credly.com){:target="_blank"}
+
+> The Credly Network
+> The most-connected network. The top training brands, certification providers, higher education institutions, professional associations, and employers choose Credly as their digital credential network. [View it in action](http://www.credly.com/users/mario-stevenson){:target="_blank"}
+
 
 <h4 name="d-id" id="d-id"> D </h4>
 
@@ -72,6 +77,10 @@ With millions of downloads, the MoneyGram money transfer app is an easier way to
 <h4 name="q-id" id="q-id"> Q </h4>
 
 <h4 name="r-id" id="r-id"> R </h4>
+
+> [ROC NATION](https://www.rocnation.com){:target="_blank}
+
+> ROC NATION. The world's preeminent entertainment company. Creating and supporting careers in every aspect of modern entertainment.
 
 <h4 name="s-id" id="s-id"> S </h4>
 
