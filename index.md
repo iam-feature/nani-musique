@@ -67,7 +67,7 @@ Having trouble with Pages? Check out our [documentation](https://) or [contact s
     <br><a style="color:lightblue" href="admin@eirt.xyz">admin@eirt.xyz</a>
     <br>Accounts Billable Receivable (ABR / AR) e-mail: <a style="color:lightblue" href="abr@eirt.xyz">abr@eirt.xyz</a>
     <br>MoneyGram telephone: <span style="color:lightblue">+1-602-767-4820</span>
-    <br>MoneyGram e-mail address <span style='color:lightblue">voice.directory@outlook.com</a>
+    <br>MoneyGram e-mail address <span style='color:lightblue"><a href="voice.directory@outlook.com">voice.directory@outlook.com</a></span>
 </div>
 <br>
 <div> 
