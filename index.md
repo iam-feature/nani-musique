@@ -21,7 +21,7 @@ Growth has been a way of life for the charter and 'Growth with a social conscien
 > - $336,000 minimum per session.
 >
 >  *Everything* is going according to **plan**.
->  *Contact us for details.*  **Be ready to submit payment.**
+>  *Contact us for details.*  **Be ready to submit payment.** 
 > From start to finish, 20% deposit, non-refundable.
 
 ### Value Engineering 
