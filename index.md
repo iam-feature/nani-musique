@@ -79,6 +79,6 @@ including film, television, video games, advertising, fashion, quantumlithograph
 </div>
 <br>
 <div> 
-Copyright © 2022 SETT Charter, Mario F Stevenson, B.P.A. (a/k/a/ Mario Feature Stevenson; a/k/a/ IamFeature; a/k/a Feature.) SETT Charter, a plan administration. SETTCHARTER, settcharter, SITK-AI(TM) are various labels of SETT Charter All Absolute Equity, Title, Rights, Interest, Reserved inherently, bound, observed and protected by patent, trademark, service mark law.  
+Copyright © 2022 SETT Charter, Mario F Stevenson, B.P.A. (a/k/a/ Mario Feature Stevenson; a/k/a/ IamFeature; a/k/a Feature.) SETT Charter, a plan administration. SETTCHARTER, settcharter, SITK-AI(™) are various labels of SETT Charter All Absolute Equity, Title, Rights, Interest, Reserved inherently, bound, observed and protected by patent, trademark, service mark law.  
     <br><br><div> <a style="color:lightblue" href="/legal.md">Legal</a> • Follow me on <a href="https://telegram.org/dl" target="_blank" style="color:lightblue">Telegram @iamfeature</a> • <a style="color:lightblue" href="info@eirt.xyz">Contact Us</a> • Subscribe to our newsletter
     </div></div>
