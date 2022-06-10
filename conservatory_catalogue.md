@@ -6,7 +6,7 @@
 
 > Conservatory, Conservatoire a school of advanced studies, usually in one of the fine arts, hence, the students and professors collectively; a repository of knowledge.
  
-#### Stay In The Know-AI | SITK-AI(TM)
+#### Stay In The Know-AI | SITK-AI(™)
 - [ ] PreOrder a session block valued at $16,800; 
 - [ ] Agree and sign a per diem promissory note; 
 - [ ] Select any 20 days per annum; 
@@ -152,7 +152,7 @@ We create educational experiences that tap into interests and passions to spark 
 </div>
 <br>
 <div> 
-Copyright © 2022 SETT Charter, Mario F Stevenson, B.P.A. (a/k/a/ Mario Feature Stevenson; a/k/a/ IamFeature; a/k/a Feature.) SETT Charter, a plan administration. SETTCHARTER, settcharter, SITK-AI(TM) are various labels of SETT Charter All Absolute Equity, Title, Rights, Interest, Reserved inherently, bound, observed and protected by patent, trademark, service mark law.  
+Copyright © 2022 SETT Charter, Mario F Stevenson, B.P.A. (a/k/a/ Mario Feature Stevenson; a/k/a/ IamFeature; a/k/a Feature.) SETT Charter, a plan administration. SETTCHARTER, settcharter, SITK-AI(™) are various labels of SETT Charter All Absolute Equity, Title, Rights, Interest, Reserved inherently, bound, observed and protected by patent, trademark, service mark law.  
     <br><br><div> <a style="color:lightblue" href="/legal.md">Legal</a> • Follow me on <a href="https://telegram.org/dl" target="_blank" style="color:lightblue">Telegram @iamfeature</a> • <a style="color:lightblue" href="info@eirt.xyz">Contact Us</a> • Subscribe to our newsletter
     </div></div>
  
