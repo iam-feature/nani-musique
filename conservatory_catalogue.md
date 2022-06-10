@@ -103,6 +103,10 @@ With millions of downloads, the MoneyGram money transfer app is an easier way to
 
 <h4 name="p-id" id="p-id"> P </h4>
 
+> [PriorityPass](https://www.prioritypass.com){:target="_blank"}
+
+> Since 1992, Priority Pass has been providing frequent Travellers with independent airport lounge access worldwide. Our network of lounges continues to grow from strength to strength today. Over 30 years ago our founder watched premium-class airline ticket holders enjoying the exclusivity and tranquillity of their airport lounges, as he endured the chaos of the departure hall. His answer was to create Priority Pass – a club that is simultaneously inclusive (affordable to all) and exclusively for those who value a little piece of civilization on their journey. In short, a place where you are always treated like No. 1, rather than part of the herd.
+
 <h4 name="q-id" id="q-id"> Q </h4>
 
 <h4 name="r-id" id="r-id"> R </h4>
