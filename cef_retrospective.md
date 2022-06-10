@@ -6,64 +6,27 @@
     
 [Charter Profile](index.md) | [Conservatory Catalogue](/conservatory_catalogue.md) | <span style="background-color:lightyellow;">CEF Retrospective</span> 
 
-### Conferences
-
-Growth has been a way of life for the charter and 'Growth with a social conscience' has been the guiding philosophy. The charter places high commitment on sustainable development of its people and the communities in which it operates. The charter's strength lies in dynamic and aggressive approach with each one committed to consolidating its strengths and excelling in the chosen field.
-
 ---
-
-![Image](imgcache/chrome_screenshot_1654792467712.png)
-
-> #### The quarterly results look great!
->
-> - Revenue was off the chart.
-> - Profits were higher than ever.
-> - $336,000 minimum per session.
->
->  *Everything* is going according to **plan**.
->  *Contact us for details.*  **Be ready to submit payment.** 
->  From start to finish, 20% deposit, non-refundable.
-
-### Events 
-#### 
-
-> A digital asset is anything that is stored digitally and
-    is uniquely identifiable that organizations can use to realize value. 
-    Examples of digital assets include documents, audio, videos, logos, 
-    slide presentations, spreadsheets and websites.
-  
-  > Gartner Glossary Finance Glossary
-  
-  > Learn more on [Value Engineering](https://www.igi-global.com/dictionary/intermediaries-commerce-value-creation-roles/31361){:target="_blank"} 
-
-
----
-#### Festivals
-    
-SETT Charter, the group architects, engineers and maintains 
-* Digital Assets Under Administration (DAUA) 
-* Monitoring of equity 
-* Provisioning assurance and evaluation
-* Publicly serves as Creative Director & Fiduciary 
-
----
-
-![Image](imgcache/GettyImages-1209661950.jpg)
+![Image](imgcache/istockphoto-1350787994-170667a.jpg)
 ###### Creator: Metamorworks / Getty
 
-### AIMLOps
-#### Solutions Architectures and Logic Engineering
+### Conferences
 
-Growing data analytics, artificial intelligence, logic engineering and machine learning methodologies have improved decision-making resulting in for the charter new growth opportunity, scaled value propositions and dynamic expansion.
 
-### DesignOps
-#### Mastering Engineer and Universal Design for Learning & Living
+---
 
-Entertainment and Music Copyright, Publishing and Creative Supervision
-* Provisioning guidance to clients, students, and prospects protecting their creative works
-* Business mechanisms that can affect the use of their songs and those of their clients
-* Serve as a creative liaison between the music industry, the visual-media industries, and creative design 
-including film, television, video games, advertising, fashion, quantumlithography, sustainable environments and vessels.
+![Image](imgcache/istockphoto-1350787994-170667a.jpg)
+###### Creator: EtiAmmos Credit: Getty Images/iStockphoto
+
+### Events
+#### 
+
+---
+
+![Image](imgcache/istockphoto-1350787994-170667a.jpg)
+###### Creator: Metamorworks / Getty
+
+### Festivals
 
 ---
  <div style="bgcolor:; background-color:gray; padding:15px; border:15px solid gray; color:white; font-weight:none; font-size:11px;">
