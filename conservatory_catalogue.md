@@ -57,6 +57,10 @@
 
 <h4 name="f-id" id="f-id"> F </h4>
 
+> [FoundersCard](https://founderscard.com/inquiry_new/gmTrav-topM11to20?h1=trav-premPPass&h2=prem&d=trav-premPPass&b=trav-premBens&q=trav-highEnd&b1=trav&utm_campaign=17068688620&utm_source=google&utm_medium=cpc&utm_content=595064077638&utm_term=priority%20pass&adgroupid=135665936306&adid=595064077638&gclid=CjwKCAjwtIaVBhBkEiwAsr7-c1Vg850F8PqWQaiwQBh9lbl6WWFF9vSm8e6vp74tdgm6u82Xi2c1SxoCDUQQAvD_BwE&gclid=CjwKCAjwtIaVBhBkEiwAsr7-c1Vg850F8PqWQaiwQBh9lbl6WWFF9vSm8e6vp74tdgm6u82Xi2c1SxoCDUQQAvD_BwE){:target="_blank"}
+
+> PRIORITY STATUS & ACCESS. For C-Suite, VPs, Directors, Senior Executives, and Entrepreneurs. FoundersCard provides its exclusive community of over 100,000 business executives with priority status and access to VIP flight rates across major airlines. Pass time in luxury with extraordinary benefits across major hotel, travel, lifestyle, and business brands.
+
 <h4 name="g-id" id="g-id"> G </h4>
 
 <h4 name="h-id" id="h-id"> H </h4>
