@@ -148,6 +148,10 @@ With millions of downloads, the MoneyGram money transfer app is an easier way to
 
 > Vivendi is a global leader in culture, entertainment, media and communications.
 
+> [VLAA - Volunteer Lawyers and Accounts for the Arts](https://vlaa.org/){:target="_blank"}
+
+> With Gratitude We are grateful to our amazing volunteers. They enjoy the challenge and the opportunity to work with creative people on interesting and stimulating legal and accounting matters. Please join us. Our volunteer accountants and lawyers donate their time and expertise to help their appreciative clients navigate the complicated world of finance and law. We also provide information and skills training designed to help the creative community develop sound business practices and protect their rights.
+
 <h4 name="w-id" id="w-id"> W </h4>
 
 <h4 name="x-id" id="x-id"> X </h4>
