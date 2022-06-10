@@ -2,7 +2,7 @@
 ###### Creator: The Image of Collection
 
 ## Conservatory Catalogue  
-[Charter Profile](index.md) | <span style="background-color:lightyellow; color:blue;"> Conservatory Catalogue</span> | [CEFRetrospective](/cef_retrospective.md)
+[Charter Profile](index.md) | <span style="background-color:lightyellow; color:blue;"> Conservatory Catalogue</span> | [CEF Retrospective](/cef_retrospective.md)
 
 > Conservatory, Conservatoire a school of advanced studies, usually in one of the fine arts, hence, the students and professors collectively; a repository of knowledge.
  
@@ -47,6 +47,9 @@
 > 
 > The top training brands, certification providers, higher education institutions, professional associations, and employers choose Credly as their digital credential network. [View it in action](http://www.credly.com/users/mario-stevenson){:target="_blank"}
 
+> [CRAS Conservatory of Recording Arts and Sciences](https://www.cras.edu){:target="_blank"}
+
+> CRAS is one of the top-rated Audio Engineering & Music Production Schools. People from all over the world come to CRAS to follow their dreams. At CRAS, we provide the tools you need to excel as an Audio Engineer and Sound Designer. Whether you are already involved in home recording, live sound, video, or looking to start from scratch — we’ve got you covered.
 
 <h4 name="d-id" id="d-id"> D </h4>
 
