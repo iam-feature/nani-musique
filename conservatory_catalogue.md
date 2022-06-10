@@ -44,12 +44,17 @@
 > [Credly](https://info.credly.com){:target="_blank"}
 
 > The Credly Network. The most-connected network. 
-> 
+
 > The top training brands, certification providers, higher education institutions, professional associations, and employers choose Credly as their digital credential network. [View it in action](http://www.credly.com/users/mario-stevenson){:target="_blank"}
 
 > [CRAS Conservatory of Recording Arts and Sciences](https://www.cras.edu){:target="_blank"}
 
 > CRAS is one of the top-rated Audio Engineering & Music Production Schools. People from all over the world come to CRAS to follow their dreams. At CRAS, we provide the tools you need to excel as an Audio Engineer and Sound Designer. Whether you are already involved in home recording, live sound, video, or looking to start from scratch — we’ve got you covered.
+
+> [CopyrightAlliance](https://www.copyrightaliiance.org){:target="_blank"}
+
+> The Copyright Alliance represents the copyright interests of over 2 million individual creators and over 15,000 organizations in the United States. [Learn more...](https://copyrightalliance.org/about/who-we-represent/){:target="_blank"}
+
 
 <h4 name="d-id" id="d-id"> D </h4>
 
