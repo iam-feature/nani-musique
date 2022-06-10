@@ -66,6 +66,10 @@
 
 > PRIORITY STATUS & ACCESS. For C-Suite, VPs, Directors, Senior Executives, and Entrepreneurs. FoundersCard provides its exclusive community of over 100,000 business executives with priority status and access to VIP flight rates across major airlines. Pass time in luxury with extraordinary benefits across major hotel, travel, lifestyle, and business brands.
 
+> [FENDI](https://www.fendi.com/us-en/){:target="_blank"}
+
+> Artisanal savoir-faire, luxury and contemporary design: the history of Fendi has always been synonymous with elegance and experimentation. [Learn more...](https://www.fendi.com/us-en/inside-fendi/the-history-of-fendi){:target="_blank"}
+
 <h4 name="g-id" id="g-id"> G </h4>
 
 <h4 name="h-id" id="h-id"> H </h4>
