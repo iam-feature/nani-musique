@@ -110,6 +110,9 @@ With millions of downloads, the MoneyGram money transfer app is an easier way to
 
 > SkyMobile has been proudly providing portable internet to those who live in rural areas since 2016. Our customers have been completely satisfied with their switch from satelite or DSL/Dial Up internet. 
 
+> [Super Car Blondie](https://www.google.com/url?sa=t&source=web&rct=j&url=http://www.supercarblondie.com/&ved=2ahUKEwiD6dDJ_KH4AhWeiI4IHYHsD1MQ-TAoAHoECBwQAQ&usg=AOvVaw24bzByBEextF4am3fj46jI){:target="_blank}
+
+> Alexandra Mary "Alex" Hirschi, known online as Supercar Blondie, is an Australian social media celebrity, presenter, and vlogger based in Dubai, United Arab Emirates. She is best known for her automotive videos, which she posts on a regular basis on Facebook, Instagram and YouTube.
 <h4 name="t-id" id="t-id"> T </h4>
 
 <h4 name="u-id" id="u-id"> U </h4>
