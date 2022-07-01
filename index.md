@@ -69,8 +69,8 @@ including film, television, video games, advertising, fashion, quantumlithograph
  <div style="bgcolor:; background-color:gray; padding:15px; border:15px solid gray; color:white; font-weight:none; font-size:11px;">
     
 <div>
-<br>Mario Stevenson, B.P.A.,
-    <br> Legati & Principal
+<br>Mario Stevenson,
+    <br> Legati & Principal, B.P.A
 <br>Mesa, AZ 85210
     <br><a style="color:lightblue" href="admin@eirt.xyz">admin@eirt.xyz</a>
     <br>Accounts Billable Receivable (ABR / AR) e-mail: <a style="color:lightblue" href="abr@eirt.xyz">abr@eirt.xyz</a>
