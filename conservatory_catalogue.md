@@ -173,8 +173,8 @@ We create educational experiences that tap into interests and passions to spark 
  <div style="bgcolor:; background-color:gray; padding:15px; border:15px solid gray; color:white; font-weight:none; font-size:11px;">
     
 <div>
-<br>Mario Stevenson, B.P.A.,
-    <br> Legati & Principal
+<br>Mario Stevenson,
+    <br> Legati & Principal, B.P.A.
 <br>Mesa, AZ 85210
     <br><a style="color:lightblue" href="admin@eirt.xyz">admin@eirt.xyz</a>
     <br>Accounts Billable Receivable (ABR / AR) e-mail: <a style="color:lightblue" href="abr@eirt.xyz">abr@eirt.xyz</a>
@@ -183,7 +183,7 @@ We create educational experiences that tap into interests and passions to spark 
 </div>
 <br>
 <div> 
-Copyright © 2022 SETT Charter, Mario F Stevenson, (a/k/a/ Mario Feature Stevenson; a/k/a/ IamFeature; a/k/a Feature.) SETT Charter, a plan administration. SETTCHARTER, settcharter, SITK-AI(™) are various labels of SETT Charter All Absolute Equity, Title, Rights, Interest, Reserved inherently, bound, observed and protected by patent, trademark, service mark law.  
+Copyright © 2022 SETT Charter, Mario F Stevenson, (a/k/a/ Mario Feature Stevenson; a/k/a/ IamFeature; a/k/a Feature.) SETT Charter, a plan administration. SETTCHARTER, settcharter, DESIGN-AI(™) are various labels of SETT Charter All Absolute Equity, Title, Rights, Interest, Reserved inherently, bound, observed and protected by patent, trademark, service mark law.  
     <br><br><div> <a style="color:lightblue" href="/legal.md">Legal</a> • Follow me on <a href="https://telegram.org/dl" target="_blank" style="color:lightblue">Telegram @iamfeature</a> • <a style="color:lightblue" href="info@eirt.xyz">Contact Us</a> • Subscribe to our newsletter
     </div></div>
  
