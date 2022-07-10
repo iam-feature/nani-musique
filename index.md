@@ -69,7 +69,7 @@ including film, television, video games, advertising, fashion, quantumlithograph
  <div style="bgcolor:; background-color:gray; padding:15px; border:15px solid gray; color:white; font-weight:none; font-size:11px;">
     
 <div>
-<br>Mario Stevenson,
+<br>Nani Eum-ag
     <br> Legati & Principal, B.P.A
 <br>Mesa, AZ 85210
     <br><a style="color:lightblue" href="admin@eirt.xyz">admin@eirt.xyz</a>
