@@ -6,7 +6,7 @@
 
 > Conservatory, Conservatoire a school of advanced studies, usually in one of the fine arts, hence, the students and professors collectively; a repository of knowledge.
  
-#### Stay In The Know-AI | SITK-AI(™)
+#### 
 - [ ] PreOrder a session block valued at $16,800; 
 - [ ] Agree and sign a per diem promissory note; 
 - [ ] Select any 20 days per annum; 
