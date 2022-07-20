@@ -1,14 +1,14 @@
 
 ![Image](imgcache/Aug21_11_864123306.jpg)
 ###### Creator: Yagi Studio
-
+DE2012_Feature_Smartcity_smartcity_600
 ## Nani Musique Universal 
     
 <span style="background-color:lightyellow;">Introduction</span> | [Conservatory Catalogue](/conservatory_catalogue.md) | [CEF Retrospective](http://) 
 
 ### Conservatorium
 
-Entertainment • Mastering • Directorate • Executive • Universal Design
+Directorate • Entertainment • Executive • Mastering • Universal Design Living and Learning
 
 Growth has been a way of life for the charter and 'Growth with a social conscience' has been the guiding philosophy. The charter places high commitment on sustainable development of its people and the communities in which it operates. The charter's strength lies in dynamic and aggressive approach with each one committed to consolidating its strengths and excelling in the chosen field.
 
