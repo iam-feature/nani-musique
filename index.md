@@ -1,21 +1,18 @@
 
-![Image](imgcache/Aug21_11_864123306.jpg)
-###### Creator: Yagi Studio
-DE2012_Feature_Smartcity_smartcity_600
-DE2012_Feature_Smartcity_smartcity_600.jpg
+
+![Image](imgcache/DE2012_Feature_Smartcity_smartcity_600.jpg)
+###### Creator: [DE2012 Feature Smartcity](https://www.digitalengineering247.com/){:target="_blank"}
+
 ## Nani Musique Universal 
-    
-<span style="background-color:lightyellow;">Introduction</span> | [Conservatory Catalogue](/conservatory_catalogue.md) | [CEF Retrospective](http://) 
 
 ### Conservatorium
 
-Directorate • Entertainment • Executive • Mastering • Universal Design Living and Learning
+<span style="background-color:lightyellow;">Introduction</span> • [Directorate](/.md) • [Entertainment](http://) • [Executive](http://) • [Mastering](http://) • [Universal Design Living and Learning](http://)
 
-Growth has been a way of life for the charter and 'Growth with a social conscience' has been the guiding philosophy. The charter places high commitment on sustainable development of its people and the communities in which it operates. The charter's strength lies in dynamic and aggressive approach with each one committed to consolidating its strengths and excelling in the chosen field.
 
 ---
 
-![Image](imgcache/chrome_screenshot_1654792467712.png)
+![Image](imgcache/chrome_screenshot_1654792467712.pn)
 
 > #### The quarterly results look great!
 >
