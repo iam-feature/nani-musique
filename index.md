@@ -7,10 +7,10 @@
 
 ### Family
 
-<span style="background-color:lightyellow;">Introduction</span>  
+<span style="background-color:lightyellow;">Discover</span>  
 > [Directorate](/.md) • [Entertainment](http://) • [Executive](http://) • [Mastering](/aimlops/aimlops.md) • [Universal Design Living and Learning](http://) 
 
-<span style="background-color:lightyellow;">APAC</span>
+<span style="background-color:lightyellow;">Asia-Pacific</span>
 > [APAC South Korea]() • [APAC China]() • [APAC India]()
 
 <span style="background-color:lightyellow;">Channels of Influence</span>
