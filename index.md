@@ -13,7 +13,7 @@
 <span style="background-color:lightyellow;">Asia-Pacific</span>
 > [APAC South Korea]() • [APAC China]() • [APAC India]()
 
-<span style="background-color:lightyellow;">Channels of Influence</span>
+<span style="background-color:lightyellow;">Regional Influence</span>
 > [Boricua]() • [Columbia]() • [Egypt]()
 
 
@@ -21,35 +21,8 @@
 ![Image](imgcache/GettyImages-1209661950.jpg)
 ###### Creator: Metamorworks / Getty
 ---
-<!--- Remove -->
-![Image](imgcache/chrome_screenshot_1654792467712.pn)
-
-> #### 
-
-### Value Engineering 
-#### Digital Assets
 
 
-
-
----
-#### Tangible Assets
-    
-
-
----
-
-
-### AIMLOps
-#### Solutions Architectures and Logic Engineering
-
-
-### DesignOps
-#### Mastering Engineer and Universal Design for Learning & Living
-
-
-
----
  <div style="bgcolor:; background-color:gray; padding:15px; border:15px solid gray; color:white; font-weight:none; font-size:11px;">
     
 <div>
