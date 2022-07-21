@@ -72,6 +72,6 @@ including film, television, video games, advertising, fashion, quantumlithograph
 </div>
 <br>
 <div> 
-Copyright © 2022 SETT Charter Nani Musique Universal, a plan administration, for various labels of SETT Charter All Absolute Equity, Title, Rights, Interest, Reserved inherently, bound, observed and protected by patent, trademark, service mark law.  
+Copyright © 2022 SETT Charter Nani Musique Universal, a plan administration, for various labels of SETT Charter and Nani Musique All Absolute Equity, Title, Rights, Interest, Reserved inherently, bound, observed and protected by patent, trademark, service mark law.  
     <br><br><div> <a style="color:lightblue" href="/legal.md">Legal</a> • Follow me on <a href="https://" target="_blank" style="color:lightblue">Telegram @iamfeature</a> • <a style="color:lightblue" href="info@eirt.xyz">Contact Us</a> • Subscribe to our newsletter
     </div></div>
