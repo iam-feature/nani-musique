@@ -15,7 +15,10 @@
 
 
 ---
-
+![Image](imgcache/GettyImages-1209661950.jpg)
+###### Creator: Metamorworks / Getty
+---
+<!--- Remove -->
 ![Image](imgcache/chrome_screenshot_1654792467712.pn)
 
 > #### 
@@ -44,8 +47,6 @@ SETT Charter, the group architects, engineers and maintains
 
 ---
 
-![Image](imgcache/GettyImages-1209661950.jpg)
-###### Creator: Metamorworks / Getty
 
 ### AIMLOps
 #### Solutions Architectures and Logic Engineering
