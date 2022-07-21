@@ -37,5 +37,5 @@
 <br>
 <div> 
 Copyright © 2022 SETT Charter Nani Musique Universal, a plan administration, for various labels of SETT Charter and Nani Musique • All Absolute Equity, Title, Rights, Interest, Reserved inherently, bound, observed and protected by patent, trademark, service mark law. For complaints https://www.azbar.org/for-the-public/concerns-about-your-lawyer/ 
-    <br><br><div> <a style="color:lightblue" href="">Legal Policies & Disclaimers</a> • Follow me on <a href="https://" target="_blank" style="color:lightblue">Telegram @iamfeature</a> • 
+    <br><br><div> <a style="color:lightblue" href="">Legal Policies & Disclaimers</a> • Follow me on <a href="https://" target="_blank" style="color:lightblue">Telegram @iamfeature</a>
     </div></div>
