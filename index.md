@@ -15,15 +15,7 @@
 
 ![Image](imgcache/chrome_screenshot_1654792467712.pn)
 
-> #### The quarterly results look great!
->
-> - Revenue was off the chart.
-> - Profits were higher than ever.
-> - $336,000 minimum per session.
->
->  *Everything* is going according to **plan**.
->  *Contact us for details.*  **Be ready to submit payment.** 
->  From start to finish, 20% deposit, non-refundable.
+> #### 
 
 ### Value Engineering 
 #### Digital Assets
