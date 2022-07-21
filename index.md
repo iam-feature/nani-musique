@@ -8,7 +8,7 @@
 ### Family
 
 <span style="background-color:lightyellow;">Discover</span>  
-> [Directorate](/.md) • [Entertainment](http://) • [Executive](http://) • [Mastering]() • [Universal Design Living and Learning](http://) 
+> [Directorate](/.md) • [Cinematography & Entertainment](http://) • [Mastering]() • [Universal Design Learning and Living](http://) 
 
 <span style="background-color:lightyellow;">Asia-Pacific</span>
 > [APAC South Korea]() • [APAC China]() • [APAC India]()
