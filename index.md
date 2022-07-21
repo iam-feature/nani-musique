@@ -63,7 +63,7 @@ including film, television, video games, advertising, fashion, quantumlithograph
     
 <div>
 <br>Nani Eum-ag
-    <br> Legati & Principal, B.P.A
+    <br> Legati & Principal Directorate, B.P.A
 <br>Mesa, AZ 85210
     <br><a style="color:lightblue" href="admin@eirt.xyz">admin@eirt.xyz</a>
     <br>Accounts Billable Receivable (ABR / AR) e-mail: <a style="color:lightblue" href="abr@eirt.xyz">abr@eirt.xyz</a>
