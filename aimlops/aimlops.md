@@ -66,32 +66,32 @@ SETT Charter, the group architects, engineers and maintains
 
 
 ---
-#### Tangible Assets
+
     
-SETT Charter, the group architects, engineers and maintains 
-* Digital Assets Under Administration (DAUA) 
-* Monitoring of equity 
-* Provisioning assurance and evaluation
-* Publicly serves as Creative Director & Fiduciary 
+
+
+
+
+
 
 ---
 
-![Image](imgcache/GettyImages-1209661950.jpg)
-###### Creator: Metamorworks / Getty
 
-### AIMLOps
-#### Solutions Architectures and Logic Engineering
 
-Growing data analytics, artificial intelligence, logic engineering and machine learning methodologies have improved decision-making resulting in for the charter new growth opportunity, scaled value propositions and dynamic expansion.
 
-### DesignOps
-#### Mastering Engineer and Universal Design for Learning & Living
 
-Entertainment and Music Copyright, Publishing and Creative Supervision
-* Provisioning guidance to clients, students, and prospects protecting their creative works
-* Business mechanisms that can affect the use of their songs and those of their clients
-* Serve as a creative liaison between the music industry, the visual-media industries, and creative design 
-including film, television, video games, advertising, fashion, quantumlithography, sustainable environments and vessels.
+
+
+
+
+
+
+
+
+
+
+
+
 
 ---
  <div style="bgcolor:; background-color:gray; padding:15px; border:15px solid gray; color:white; font-weight:none; font-size:11px;">
