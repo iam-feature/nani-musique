@@ -10,8 +10,11 @@
 <span style="background-color:lightyellow;">Introduction</span>  
 > [Directorate](/.md) • [Entertainment](http://) • [Executive](http://) • [Mastering](/aimlops/aimlops.md) • [Universal Design Living and Learning](http://) 
 
+<span style="background-color:lightyellow;">APAC</span>
+> [APAC South Korea]() • [APAC China]() • [APAC India]()
+
 <span style="background-color:lightyellow;">Channels of Influence</span>
-> [South Korea]() • [China]() • [Boricua]() • [Columbia]() • [Egypt]() • [India]()
+> [Boricua]() • [Columbia]() • [Egypt]()
 
 
 ---
@@ -26,24 +29,13 @@
 ### Value Engineering 
 #### Digital Assets
 
-> A digital asset is anything that is stored digitally and
-    is uniquely identifiable that organizations can use to realize value. 
-    Examples of digital assets include documents, audio, videos, logos, 
-    slide presentations, spreadsheets and websites.
-  
-  > Gartner Glossary Finance Glossary
-  
-  > Learn more on [Value Engineering](https://www.igi-global.com/dictionary/intermediaries-commerce-value-creation-roles/31361){:target="_blank"} 
+
 
 
 ---
 #### Tangible Assets
     
-SETT Charter, the group architects, engineers and maintains 
-* Digital Assets Under Administration (DAUA) 
-* Monitoring of equity 
-* Provisioning assurance and evaluation
-* Publicly serves as Creative Director & Fiduciary 
+
 
 ---
 
@@ -51,16 +43,11 @@ SETT Charter, the group architects, engineers and maintains
 ### AIMLOps
 #### Solutions Architectures and Logic Engineering
 
-Growing data analytics, artificial intelligence, logic engineering and machine learning methodologies have improved decision-making resulting in for the charter new growth opportunity, scaled value propositions and dynamic expansion.
 
 ### DesignOps
 #### Mastering Engineer and Universal Design for Learning & Living
 
-Entertainment and Music Copyright, Publishing and Creative Supervision
-* Provisioning guidance to clients, students, and prospects protecting their creative works
-* Business mechanisms that can affect the use of their songs and those of their clients
-* Serve as a creative liaison between the music industry, the visual-media industries, and creative design 
-including film, television, video games, advertising, fashion, quantumlithography, sustainable environments and vessels.
+
 
 ---
  <div style="bgcolor:; background-color:gray; padding:15px; border:15px solid gray; color:white; font-weight:none; font-size:11px;">
