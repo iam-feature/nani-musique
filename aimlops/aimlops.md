@@ -8,7 +8,7 @@
 
 ### Family
 
-<span style="background-color:lightyellow;">./<span style="background-color:lihtyellow;">[Introduction](../index.md){:target="_blank"}</span>  
+<span style="background-color:lightyellow;">./<span style="background-color:lihtyellow;">[Introduction](../index.md)</span>  
 > [Directorate](/.md) • [Entertainment](http://) • [Executive](http://) • [Mastering](http://) • [Universal Design Living and Learning](http://)
 
 
