@@ -8,7 +8,7 @@
 ### Family
 
 <span style="background-color:lightyellow;">Introduction</span>  
-> [Directorate](/.md) • [Entertainment](http://) • [Executive](http://) • [Mastering](http://) • [Universal Design Living and Learning](http://)
+> [Directorate](/.md) • [Entertainment](http://) • [Executive](http://) • [Mastering](/aimlops/aimlops.md) • [Universal Design Living and Learning](http://)
 
 
 ---
