@@ -8,10 +8,13 @@
 ### Family
 
 <span style="background-color:lightyellow;">Directorate</span>  
-> [Cinematography & Entertainment](http://) • [Charter & Fiduciary](/.md) • [Mastering]() • [Universal Design Learning and Living](http://) 
+> [Cinematography & Entertainment](http://) • [Mastering]() • [Universal Design Learning and Living](http://) 
 
-<span style="background-color:lightyellow;">Asia-Pacific</span>
-> [APAC South Korea]() • [APAC China]() • [APAC India]()
+>> <span style="background-color:lightyellow;">Fiduciary</span>
+
+> [APAC South Korea]() • [APAC China]() • [APAC India]() 
+
+--- 
 
 <span style="background-color:lightyellow;">Regional Influence</span>
 > [Boricua]() • [Columbia]() • [Egypt]() • [Saudi Arabia]()
