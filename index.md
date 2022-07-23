@@ -12,7 +12,7 @@
 
 >> <span style="background-color:lightyellow;">Fiduciary</span>
 
-> [APAC South Korea]() • [APAC China]() • [APAC India]() 
+> [APAC China]() • [APAC India]() • [APAC South Korea]() • [USA]()
 
 --- 
 
