@@ -26,9 +26,9 @@
 <h4 name="top-id" id="top-id">Thank you for visiting the Nani Musique website. Provided below are the legal policies and disclaimers for users of this site. These policies and disclaimers apply only to the Nani Musique site. Therefore, once you link to another site, you are subject to the policies of the new site.</h4>
 
 > - [Links to Other Websites](legal.md#a-id)
-> - [Linking to the DOJ Website](legal.md#b-id)
+> - [Linking to the Nani Musique Universal Website](legal.md#b-id)
 > - [Copyright Status and Citation](legal.md#c-id)
-> - [Use of DOJ Seals and Logos](legal.md#d-id)
+> - [Use of CHARTER Seals and Logos](legal.md#d-id)
 > - [Information Quality Guidelines](legal.md#e-id)
 > - [Disclaimer of Liability and Endorsement](legal.md#f-id)
 
