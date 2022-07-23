@@ -7,10 +7,7 @@
 ## Legal Policies and Disclaimers
 
 
-Home
-SHARE
-LEGAL POLICIES AND DISCLAIMERS
-Thank you for visiting the Department of Justice website. Provided below are the legal policies and disclaimers for users of this site. These policies and disclaimers apply only to the Department of Justice site. Therefore, once you link to another site, you are subject to the policies of the new site.
+Thank you for visiting the Nani Musique website. Provided below are the legal policies and disclaimers for users of this site. These policies and disclaimers apply only to the Nani Musique site. Therefore, once you link to another site, you are subject to the policies of the new site.
 
 Links to Other Websites
 Linking to the DOJ Website
