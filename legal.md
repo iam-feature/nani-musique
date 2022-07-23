@@ -7,16 +7,16 @@
 ## Legal Policies and Disclaimers
 
 
-Thank you for visiting the Nani Musique website. Provided below are the legal policies and disclaimers for users of this site. These policies and disclaimers apply only to the Nani Musique site. Therefore, once you link to another site, you are subject to the policies of the new site.
+<h4 name="top-id" id="top-id">Thank you for visiting the Nani Musique website. Provided below are the legal policies and disclaimers for users of this site. These policies and disclaimers apply only to the Nani Musique site. Therefore, once you link to another site, you are subject to the policies of the new site.</h4>
 
-Links to Other Websites
+[Links to Other Websites](legal.md#a-id)
 Linking to the DOJ Website
 Copyright Status and Citation
 Use of DOJ Seals and Logos
 Information Quality Guidelines
 Disclaimer of Liability and Endorsement
 
-LINKS TO OTHER WEBSITES
+<h4 name="a-id" id="a-id">LINKS TO OTHER WEBSITES</h4>
 The information posted on the Department of Justice website includes hypertext links or pointers to information created and maintained by other public and/or private organizations. The Department of Justice provides these links and pointers solely for your information and convenience. When you select a link to an outside website, you are subject to the privacy, copyright, security, and information quality policies of that website. The Department of Justice:
 
 DOES NOT control or guarantee the accuracy, legality, relevance, timeliness, or completeness of information contained on a linked website;
@@ -28,7 +28,7 @@ Links to non-federal government sites will either appear on a page notifying you
 
 If you find a link that does not work please contact the Department of Justice Webmaster.
 
-Back to Top
+[Back to Top](legal.md#top-id)
 
 LINKING TO THE DOJ WEBSITE
 Links to the Department of Justice website are permitted. The use of Department of Justice seals, however, is protected and requires advance written authorization as described below. The fact that a website links to the Department of Justice site does not indicate that the Department has any responsibility for the content of that site, nor does it constitute an endorsement of that site by the Department.
