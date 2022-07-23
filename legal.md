@@ -4,6 +4,22 @@
 ###### Creator: Yagi Studio
 ## Nani Musique Universal 
 
+### Family
+
+<span style="background-color:lightyellow;">Directorate</span>  
+> [Cinematography & Entertainment](http://) • [Mastering]() • [Universal Design Learning and Living](http://) 
+
+>> <span style="background-color:lightyellow;">Fiduciary</span>
+
+> [APAC China]() • [APAC India]() • [APAC South Korea]() • [USA]()
+
+--- 
+
+<span style="background-color:lightyellow;">Regional Influence</span>
+> [Boricua]() • [Columbia]() • [Egypt]() • [Saudi Arabia]()
+
+
+---
 ## Legal Policies and Disclaimers
 
 
